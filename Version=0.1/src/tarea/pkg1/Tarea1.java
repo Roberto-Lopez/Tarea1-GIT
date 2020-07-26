@@ -18,9 +18,9 @@ public class Tarea1 {
         String cadena2 = "";
         String caracteres = cadena1 + cadena2;
 
-        System.out.println("ingrese la primer cadena");
+        System.out.println("digite la primer cadena");
         cadena1 = entrada.nextLine();
-        System.out.println("ingrese la segunda cadena");
+        System.out.println("digite la segunda cadena");
         cadena2 = entrada.nextLine();
 
         String[] iguales = caracteres.split("a");
